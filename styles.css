@@ -1,0 +1,21 @@
+body {
+
+    background: darkseagreen;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 { 
+    color: whitesmoke;
+    text-align: center;
+}
+
+.project {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.project {
+    width: 30%;
+    margin: 10px;
+}
