@@ -26,3 +26,22 @@ padding: 20px 10px;
 background: black;
 border-radius: 25%;
 }
+
+.project img{
+width: 300px;
+height: 300px;
+margin: 10px;
+border: 2px solid rgb(26, 208, 102);
+display: block;
+margin: auto;
+}
+
+a { 
+text-decoration: none;
+color: whitesmoke;
+}
+    
+.project p {
+text-align: center;
+margin: 15px;
+}
