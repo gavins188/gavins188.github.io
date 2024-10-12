@@ -1,15 +1,20 @@
 body {
 
-    background: darkseagreen;
+    background: black;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
 h1 { 
-    color: whitesmoke;
+    color: white;
     text-align: center;
 }
 
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
 .project {
     display:flex;
     flex-wrap:wrap;
@@ -25,20 +30,24 @@ margin: 10px;
 padding: 20px 10px;
 background: black;
 border-radius: 25%;
+text-align: center;
+color: white;
 }
 
 .project img{
 width: 300px;
 height: 300px;
 margin: 10px;
-border: 2px solid rgb(26, 208, 102);
+border: 2px solid rgb(56, 74, 64);
 display: block;
 margin: auto;
+text-align: center;
 }
 
 a { 
 text-decoration: none;
 color: whitesmoke;
+text-align: center;
 }
     
 .project p {
