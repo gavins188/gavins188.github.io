@@ -21,7 +21,7 @@ h3 {
     color: white;
 }
 
-h3 {
+h4 {
     text-align: center;
     color: blue;
 }
@@ -86,8 +86,7 @@ margin: 15px;
     width: 150px;
     height: 200px;
     border-radius: 25%;
-    border: 2px solid rgb(126, 14, 201);
-    align-items: baseline;
+    border: 2px solid rgb(242, 240, 244);
     }
 
 .about p {
