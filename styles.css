@@ -36,8 +36,10 @@ h3 {
 width: 30%;
 margin: 10px;
 padding: 20px 20px;
+flex-direction: column;
 background: black;
 border-radius: 25%;
+align-items: center;
 text-align: center;
 color: white;
 }
@@ -50,6 +52,7 @@ border: 2px solid rgb(56, 74, 64);
 display: block;
 margin: auto;
 text-align: center;
+align-items: center;
 }
 
 a { 
@@ -61,4 +64,26 @@ text-align: center;
 .project p {
 text-align: center;
 margin: 15px;
+}
+
+.about{
+    display:flex;
+    flex-wrap:wrap;
+    margin-right: 100px;
+    margin-left: 100px;
+    justify-content: center;
+    }
+
+.about img {
+    width: 150px;
+    height: 200px;
+    border-radius: 25%;
+    border: 2px solid rgb(126, 14, 201);
+    }
+
+.about p {
+    width:50%;
+    text-align: center;
+    margin: auto;
+    line-height: 125%;
 }
