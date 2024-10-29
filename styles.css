@@ -20,6 +20,11 @@ h3 {
     text-align: center;
     color: white;
 }
+
+h3 {
+    text-align: center;
+    color: blue;
+}
 .project {
     display:block;
     flex-wrap:wrap;
