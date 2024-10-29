@@ -73,5 +73,7 @@ text-align: center;
 .about p {
     width:50%;
     margin: auto;
+    text-align: center;
     line-height: 125%;
+    color: whitesmoke;
 }
