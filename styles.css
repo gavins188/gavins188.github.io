@@ -25,20 +25,6 @@ h4 {
     text-align: center;
     color: blue;
 }
-.project {
-    display:block;
-    flex-wrap:wrap;
-    align-items: center;
-}
-
-.projects { 
-    display:block; 
-    flex-wrap:wrap; 
-    align-items: center;
-    text-align: center;
-    flex-direction: column;
-
-}
 
 .project {
 width: 30%;
@@ -67,11 +53,6 @@ a {
 text-decoration: none;
 color: whitesmoke;
 text-align: center;
-}
-    
-.project p {
-text-align: center;
-margin: 15px;
 }
 
 .about{
