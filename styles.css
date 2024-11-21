@@ -78,3 +78,21 @@ text-align: center;
     line-height: 125%;
     color: whitesmoke;
 }
+
+
+.skills p {
+    width:50%;
+    margin: auto;
+    text-align: center;
+    line-height: 125%;
+    color: whitesmoke;
+}
+
+.skills{
+    display:flex;
+    flex-wrap:wrap;
+    margin-right: 100px;
+    margin-left: 100px;
+    justify-content: center;
+    color: whitesmoke;
+    }
